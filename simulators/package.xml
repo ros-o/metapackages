@@ -18,7 +18,8 @@
 
   <exec_depend>robot</exec_depend>
 
-  <exec_depend>gazebo_ros_pkgs</exec_depend>
+  <!-- drop gazebo dependency until debian packages are functional -->
+  <!-- <exec_depend>gazebo_ros_pkgs</exec_depend> -->
   <exec_depend>rqt_common_plugins</exec_depend>
   <exec_depend>rqt_robot_plugins</exec_depend>
   <exec_depend>stage_ros</exec_depend>
